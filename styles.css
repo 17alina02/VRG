@@ -1,0 +1,27 @@
+html {
+	background-color: #E4D6BA;
+}
+p {
+color:#3A2700;
+}
+h2 {
+font-size: 1.8em;
+background-color: #A6B1C8;
+padding: 10px 10px 10px 10px;
+margin: 0 0 0 50px;
+}
+body{
+padding: 0 25px;
+background-image: url(./images/1.svg);
+}
+.red {
+color: red;
+}
+#blue1 {
+color: blue;
+font-size: 1.2em;
+}
+h1 {
+background-image: url(./images/tractor.png);
+padding: 20px 0;
+}
