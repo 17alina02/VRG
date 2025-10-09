@@ -102,7 +102,7 @@ html {
 	background-image: url(images/Верх.jpg);
 	background-position: left top;
 	background-repeat: no-repeat;
-background-size: contain;
+background-size: 290px, 250px;
 }
 .banner {
 	margin-top: 48px;
