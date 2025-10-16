@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Галерея шляп</title>
+<link href="styles.css" rel="stylesheet">
+</head>
+<body>
+<header>
+<h1>Галерея шляп <img src="images/hat.png" width="130" height="140" alt="Галерея шляп" class="badge"></h1>
+<nav>
+	<ul>
+		<li><a href="#">Главная</a></li>
+		<li><a href="#">Феи</a></li>
+		<li><a href="#">О нас</a></li>
+		<li><a href="#">Контакты</a></li>
+	</ul>
+</nav>
+</header>
+<div class="gallery">
+<figure>
+<img src="images/Блум.jpg" width="300" height="210" alt="Блум">
+<figcaption><strong></strong> Блум — лидер клуба «Винкс», фея Огня Дракона и принцесса планеты Домино</figcaption>
+</figure>
+<figure>
+<img src="images/Флора.jpg" width="300" height="210" alt="Флора">
+<figcaption><strong></strong> Флора — фея природы, главная героиня мультсериала «Клуб Винкс», родившаяся на планете Линфея </figcaption>
+</figure>
+<figure>
+<img src="images/Стелла.jpg" width="300" height="210" alt="Стелла">
+<figcaption><strong></strong> Стелла — принцесса Солярии и фея Солнца, Луны и Звёзд, известная своей любовью к моде.</figcaption>
+</figure>
+<figure>
+<img src="images/Муза.jpg" width="300" height="210" alt="Муза">
+<figcaption><strong></strong> Муза — фея музыки, родом с планеты Мелодия.</figcaption>
+</figure>
+<figure>
+<img src="images/Текна.jpg" width="300" height="210" alt="Текна">
+<figcaption><strong></strong> Текна — фея технологий с планеты Зенит, отличающаяся умом и любовью к гаджетам и электронике. </figcaption>
+</figure>
+<figure>
+<img src="images/Лейла.jpg" width="300" height="210" alt="Лейла">
+<figcaption><strong></strong> Лейла — принцесса планеты Андрос и фея, управляющая силами воды и Морфикс </figcaption>
+</figure>
+<figure>
+<img src="images/1.jpg" width="300" height="210" alt="Винск">
+<figcaption><strong></strong> Феи Винкс — это шесть подруг-волшебниц, которые сражаются со злом и защищают свой мир.</figcaption>
+</figure>
+<figure>
+<img src="images/2.jpg" width="300" height="210" alt="Винск">
+<figcaption><strong></strong>  Они стали знаменитостями в Волшебном Измерении и обладают различными магическими способностями.</figcaption>
+</figure>
+<figure>
+<img src="images/3.jpg" width="300" height="210" alt="Винск">
+<figcaption><strong></strong> Их объединяет школьная дружба и взаимная помощь. </figcaption>
+</figure>
+</div>
+<footer>
+<div class="copyright">
+<p>Собственность 2025, Костикова Алина</p>
+</div>
+</footer>
+</body>
+</html>
